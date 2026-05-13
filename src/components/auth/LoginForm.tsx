@@ -38,14 +38,14 @@ export default function LoginForm() {
       {/* Logo GDN (image_1.png) */}
       <div className="flex flex-col items-center justify-center mb-10">
         <Image 
-          src="/assets/gdn_logo_full.png" 
+          src="/assets/GDN_Cleaned.png" 
           alt="GDN - Global Danapati Niaga Logo" 
           width={180} // Sesuaikan lebar logo agar terlihat pas
           height={60} 
           className="mb-6 object-contain"
           priority
         />
-        <h3 className="text-3xl font-extrabold text-gdn-text-main dark:text-white">GDNi Ops</h3>
+        <h3 className="text-3xl font-extrabold text-gdn-text-main dark:text-white">NexusOps</h3>
         <p className="text-sm text-gray-600 dark:text-gray-400 mt-1">Masuk untuk mengakses Dashboard Utama</p>
       </div>
 
