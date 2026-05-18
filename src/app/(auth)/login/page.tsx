@@ -14,9 +14,9 @@ export default function LoginPage() {
       {/* --- BAGIAN KIRI (Desktop) / BAGIAN ATAS (Mobile) --- */}
       <div className="lg:w-1/2 flex flex-col items-start justify-center p-8 md:p-16 lg:p-24 bg-gdn-dark-blue bg-gdn-left-gradient from-gdn-dark-blue to-[#111827]">
         <h1 className="text-5xl md:text-6xl font-extrabold text-white leading-tight mb-8">
-          Data <span className="text-gdn-orange">Driven</span>
+          Centralize. <span className="text-gdn-orange">Optimize.</span>
           <br />
-          <span className="text-gdn-blue">Decisions.</span>
+          <span className="text-gdn-blue">Elevate.</span>
         </h1>
 
         <div className="border-l-4 border-gdn-orange pl-6 py-1">

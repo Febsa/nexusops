@@ -53,7 +53,7 @@ export default function LoginForm() {
       <form className="space-y-6">
         <div>
           <label htmlFor="email" className="block text-sm font-semibold text-gdn-text-main dark:text-gray-300 mb-2">
-            Email Corporate
+            Email
           </label>
           <div className="relative">
             {/* Ikon Profil Kosong */}
